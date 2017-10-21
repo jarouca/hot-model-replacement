@@ -1,0 +1,19 @@
+{
+  "name": "hot-model-replacement",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jarouca/hot-model-replacement.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jarouca/hot-model-replacement/issues"
+  },
+  "homepage": "https://github.com/jarouca/hot-model-replacement#readme"
+}
