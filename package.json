@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jarouca/hot-model-replacement/issues"
   },
-  "homepage": "https://github.com/jarouca/hot-model-replacement#readme"
+  "homepage": "https://github.com/jarouca/hot-model-replacement#readme",
+  "dependencies": {
+    "iframe": "^1.0.0"
+  }
 }
