@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/jarouca/hot-model-replacement#readme",
   "dependencies": {
-    "iframe": "^1.0.0"
+    "iframe": "^1.0.0",
+    "lodash": "^4.17.4",
+    "npm-sass": "^2.2.1"
   }
 }
